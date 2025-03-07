@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, FlatList, StyleSheet, Alert, Image } from "react-native";
+import { View, Text, FlatList, StyleSheet, Alert, Image, Pressable } from "react-native";
 import { Props } from "../navigation/props";
 import { useGrocery } from "../contexts/GroceryContext";
 
